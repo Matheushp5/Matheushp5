@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matheushp5
-- 👀 I’m interested in frontend developing.
-- 🌱 I’m currently learning JavaScript, react, node.
-- 💞️ I’m looking to collaborate on web applications.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python and Data Science
+- 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me matheushpsilva91@gmail.com
 
 <!---
